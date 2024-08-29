@@ -1,0 +1,12 @@
+Modelo\EmpleadoBD.class
+Modelo\ProductoBD.class
+Modelo\DetalleVenta.class
+config\Conexion.class
+Modelo\Venta.class
+Controlador\Validar.class
+com\mycompany\mavenproject1\resources\JakartaEE10Resource.class
+Modelo\Empleado.class
+com\mycompany\mavenproject1\JakartaRestConfiguration.class
+Controlador\Controlador.class
+Modelo\Producto.class
+Modelo\VentaBD.class
